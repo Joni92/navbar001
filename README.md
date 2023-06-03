@@ -6,4 +6,4 @@ Navbar mobile - liquid menu indicador
 
 ![preview.png](https://github.com/Joni92/navbar001/blob/main/preview01.png)
 
-![preview.png](https://github.com/Joni92/navbar001/blob/main/preview01.png)
+![preview.png](https://github.com/Joni92/navbar001/blob/main/preview02.png)
